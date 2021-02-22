@@ -5,7 +5,7 @@
 Use your favourite Notebook editor to run the code, Note that due to the reliance on pulling a lot of data from [The GDELT Project](https://www.gdeltproject.org/), this book should only be considered as reference.
 
 
-Some notes about using this course as reference.
+Some notes about using this repo as reference.
 This submission received a **Perfect** A+ Score in 2020, However:
   * Most of the time allotted was during a national Lockdown, grading was most likely affected
   * You should show scalability, a small part of this assignment creates psuedo-country codes and false data to 'simulate' extra data, proceed with caution
