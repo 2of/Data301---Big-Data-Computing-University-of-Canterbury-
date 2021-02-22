@@ -55,6 +55,6 @@ With the vectorization done, we can compare different countries, look at cluster
 
 Import to google collab and run. You may need to set some time aside to pull data from GDELT. However, simply choosing which cells to run is sufficient.
 
-Note that github has an inbuilt viewer for Jupyter notebooks that **does not** support the command line invocations found in this booklet (i.e. *!ls* )
+Note that github has an inbuilt viewer for Jupyter notebooks that **does not** support the command line invocations found in this booklet (i.e. *!ls* appears as a syntax error where it is valid in the google collab runtime)
 
 Download / Analysis time for gdelt in a google collab instance was upwards of 4 hours for several hundred thousand articles.
