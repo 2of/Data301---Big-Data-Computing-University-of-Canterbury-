@@ -11,7 +11,9 @@ This submission received a **Perfect** A+ Score in 2020, However:
   * You should show scalability, a small part of this assignment creates psuedo-country codes and false data to 'simulate' extra data, proceed with caution
   * This is ordinarily a group assignment
   * This Project failed to correctly run on a google cloud instance
-These are all things that should be considered
+
+
+**These are all things that should be considered, do not use this as anything but a reference for how previous students have approached the problems.
 
 
 ## **Synopsis**
@@ -48,7 +50,7 @@ the articles were associated with a public interest. Then we simply grouped the 
 With the vectorization done, we can compare different countries, look at clustering using *cosine similarity* and make a reccommendation.
 
 
-# **Usage
+## Usage
 
 
 Import to google collab and run. You may need to set some time aside to pull data from GDELT. However, simply choosing which cells to run is sufficient.
